@@ -1,2 +1,2 @@
-# Sistema-odontol-gico
-Site para Clinica Odontológica feita em grupo
+# Sistema-odontologico
+Site para Clinica Odontológica feita em grupo(Front end)
